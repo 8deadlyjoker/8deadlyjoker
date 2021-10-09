@@ -10,3 +10,6 @@
 [<img align="left" alt="8deadlyjoker | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
