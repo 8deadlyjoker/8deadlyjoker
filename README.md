@@ -11,5 +11,5 @@
 
 <br />
 
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://www.instagram.com/yash_shorey/
+[linkedin]: https://www.linkedin.com/in/yash-pratap-singh-971523151/
