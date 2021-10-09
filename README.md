@@ -1,7 +1,8 @@
 ## I'm a Student, Programmer, Developer, and Gamer !!
-- 🔭 I just launched my first Game: Driving Space
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ I just make a game with help of pygame
+- ⚡ I’m currently learning everything 🤣
+- ⚡ I’m working professionally in python.
+- ⚡ I Learned - Pygame, Python Advance Level, Python Automation 
 - ⚡ Fun fact: I love games and codes.
 
 ### Connect with me:
