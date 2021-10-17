@@ -10,7 +10,7 @@
 - Machine Learning
 - CSS and Java Script 
 
-### Learned:
+### I am Learned:
 - Python basic
 - Pyhton advance level
 - HTML5
