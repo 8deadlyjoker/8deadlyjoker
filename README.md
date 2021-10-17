@@ -2,7 +2,6 @@
 - ⚡ I just make a game with help of pygame
 - ⚡ I’m currently learning everything 🤣
 - ⚡ I’m working professionally in python.
-- ⚡ 
 - ⚡ Fun fact: I love games and codes.
 
 ### I am Learning:
