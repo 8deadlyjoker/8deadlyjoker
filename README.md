@@ -8,6 +8,8 @@
 ### I am Learning:
 - Pygame
 - Python Automation
+- Machine Learning
+- CSS and Java Script 
 
 ### Learned:
 - Python basic
